@@ -1,0 +1,15 @@
+bicycle/1024376968.jpg bicycle
+bicycle/1028538085.jpg bicycle
+bicycle/1036760951.jpg bicycle
+bicycle/105306950.jpg bicycle
+bicycle/1062926369.jpg bicycle
+car/1003001826.jpg car
+car/1003616115.jpg car
+car/1012060127.jpg car
+car/1016880707.jpg car
+car/1022514470.jpg car
+motorbike/1001827810.jpg motorbike
+motorbike/1006160814.jpg motorbike
+motorbike/1007714216.jpg motorbike
+motorbike/1016401847.jpg motorbike
+motorbike/1020396537.jpg motorbike
